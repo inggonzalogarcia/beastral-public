@@ -1,6 +1,6 @@
-# Términos y Condiciones — Astral Book
+# Términos y Condiciones — BeAstral
 
-Documentos legales versionados, servidos por **GitHub Pages** desde este folder. El bot Telegram [@AstralBookBot](https://t.me/AstralBookBot) linkea a estas URLs cuando solicita aceptación al usuario.
+Documentos legales versionados, servidos por **GitHub Pages** desde este folder. El bot Telegram [@BeAstralBot](https://t.me/BeAstralBot) linkea a estas URLs cuando solicita aceptación al usuario.
 
 ## Estructura
 
@@ -22,12 +22,12 @@ docs/terms/
 Una vez habilitado Pages (Settings → Pages → Source: `main` branch, folder `/docs`), los documentos quedan disponibles en:
 
 ```
-https://inggonzalogarcia.github.io/astral-book-public/terms/v1/es
-https://inggonzalogarcia.github.io/astral-book-public/terms/v1/en
-https://inggonzalogarcia.github.io/astral-book-public/terms/v1/pt
-https://inggonzalogarcia.github.io/astral-book-public/terms/v1/it
-https://inggonzalogarcia.github.io/astral-book-public/terms/v1/fr
-https://inggonzalogarcia.github.io/astral-book-public/terms/v1/de
+https://inggonzalogarcia.github.io/beastral-public/terms/v1/es
+https://inggonzalogarcia.github.io/beastral-public/terms/v1/en
+https://inggonzalogarcia.github.io/beastral-public/terms/v1/pt
+https://inggonzalogarcia.github.io/beastral-public/terms/v1/it
+https://inggonzalogarcia.github.io/beastral-public/terms/v1/fr
+https://inggonzalogarcia.github.io/beastral-public/terms/v1/de
 ```
 
 > Para habilitar: GitHub repo → Settings → Pages → Build and deployment → Source: "Deploy from a branch" → Branch: `main` / `/docs` → Save.
